@@ -1,0 +1,16 @@
+body{
+    background-color: darkgrey;
+}
+.contenedor{
+    background-color: beige;
+    padding: 5%;
+}
+
+.requisitos{
+    padding: 5%;
+}
+
+.dropdown-toggle{
+    width: 70%;
+    margin-top: 1vh;
+}
